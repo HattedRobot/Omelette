@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200"
+   height="200"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="active-center">
+    <path
+       id="rect1-7-5-9-7"
+       style="fill:#100f0c;fill-opacity:0.4;stroke:#000000;stroke-width:0"
+       d="m 30,100 h 15 a 5,5 45 0 1 5,5 v 15 a 5,5 135 0 1 -5,5 H 30 a 5,5 45 0 1 -5,-5 v -15 a 5,5 135 0 1 5,-5 z"
+       transform="translate(0,2.5)" />
+    <path
+       id="rect1"
+       style="fill:#eee5c9;stroke:#000000;stroke-width:0"
+       d="m 30,100 h 15 a 5,5 45 0 1 5,5 v 15 a 5,5 135 0 1 -5,5 H 30 a 5,5 45 0 1 -5,-5 v -15 a 5,5 135 0 1 5,-5 z" />
+    <path
+       id="rect6"
+       d="m 32.5,105 h 10 a 2.5,2.5 45 0 1 2.5,2.5 2.5,2.5 135 0 1 -2.5,2.5 h -10 A 2.5,2.5 45 0 1 30,107.5 2.5,2.5 135 0 1 32.5,105 Z"
+       style="fill:#fac354;fill-opacity:1;stroke:#000000;stroke-width:0" />
+    <path
+       id="rect7"
+       d="m 32.5,115 10,0 a 2.5,2.5 45 0 1 2.5,2.5 2.5,2.5 135 0 1 -2.5,2.5 h -10 A 2.5,2.5 45 0 1 30,117.5 2.5,2.5 135 0 1 32.5,115 Z"
+       style="fill:#fac354;fill-opacity:1;stroke:#000000;stroke-width:0" />
+  </g>
+  <g
+     id="hover-center"
+     transform="translate(50)">
+    <path
+       id="rect1-7-5-9-5"
+       style="fill:#100f0c;fill-opacity:0.4;stroke:#000000;stroke-width:0"
+       d="m 30,100 h 15 a 5,5 45 0 1 5,5 v 15 a 5,5 135 0 1 -5,5 H 30 a 5,5 45 0 1 -5,-5 v -15 a 5,5 135 0 1 5,-5 z"
+       transform="translate(0,2.5)" />
+    <path
+       id="rect1-7"
+       style="fill:#eee5c9;stroke:#000000;stroke-width:0"
+       d="m 30,100 h 15 a 5,5 45 0 1 5,5 v 15 a 5,5 135 0 1 -5,5 H 30 a 5,5 45 0 1 -5,-5 v -15 a 5,5 135 0 1 5,-5 z" />
+    <path
+       id="rect6-7"
+       d="m 32.5,105 h 10 a 2.5,2.5 45 0 1 2.5,2.5 2.5,2.5 135 0 1 -2.5,2.5 h -10 A 2.5,2.5 45 0 1 30,107.5 2.5,2.5 135 0 1 32.5,105 Z"
+       style="fill:#d9ab49;fill-opacity:1;stroke:#000000;stroke-width:0" />
+    <path
+       id="rect7-5"
+       d="m 32.5,115 10,0 a 2.5,2.5 45 0 1 2.5,2.5 2.5,2.5 135 0 1 -2.5,2.5 h -10 A 2.5,2.5 45 0 1 30,117.5 2.5,2.5 135 0 1 32.5,115 Z"
+       style="fill:#d9ab49;fill-opacity:1;stroke:#000000;stroke-width:0" />
+  </g>
+  <g
+     id="pressed-center"
+     transform="translate(100,2.5)">
+    <path
+       id="rect1-7-5-9"
+       style="fill:#100f0c;fill-opacity:0.4;stroke:#000000;stroke-width:0"
+       d="m 30,100 h 15 a 5,5 45 0 1 5,5 v 15 a 5,5 135 0 1 -5,5 H 30 a 5,5 45 0 1 -5,-5 v -15 a 5,5 135 0 1 5,-5 z" />
+    <path
+       id="rect1-7-5"
+       style="fill:#d9ab49;fill-opacity:1;stroke:#000000;stroke-width:0"
+       d="m 30,100 h 15 a 5,5 45 0 1 5,5 v 15 a 5,5 135 0 1 -5,5 H 30 a 5,5 45 0 1 -5,-5 v -15 a 5,5 135 0 1 5,-5 z"
+       transform="translate(0,-2.5)" />
+    <path
+       id="rect6-7-0"
+       d="m 32.5,105 h 10 a 2.5,2.5 45 0 1 2.5,2.5 2.5,2.5 135 0 1 -2.5,2.5 h -10 A 2.5,2.5 45 0 1 30,107.5 2.5,2.5 135 0 1 32.5,105 Z"
+       style="fill:#eee5c9;fill-opacity:1;stroke:#000000;stroke-width:0"
+       transform="translate(0,-2.5)" />
+    <path
+       id="rect7-5-6"
+       d="m 32.5,115 10,0 a 2.5,2.5 45 0 1 2.5,2.5 2.5,2.5 135 0 1 -2.5,2.5 h -10 A 2.5,2.5 45 0 1 30,117.5 2.5,2.5 135 0 1 32.5,115 Z"
+       style="fill:#eee5c9;fill-opacity:1;stroke:#000000;stroke-width:0"
+       transform="translate(0,-2.5)" />
+  </g>
+</svg>

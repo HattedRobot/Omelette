@@ -9,6 +9,9 @@
    id="svg1"
    sodipodi:docname="decoration.svg"
    inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   inkscape:export-filename="../Final/Omelette/decoration.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,15 +28,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="6.6639202"
-     inkscape:cx="74.355632"
-     inkscape:cy="133.2549"
+     inkscape:zoom="13.32784"
+     inkscape:cx="52.671699"
+     inkscape:cy="104.368"
      inkscape:window-width="2560"
-     inkscape:window-height="1359"
+     inkscape:window-height="1351"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1">
+     inkscape:current-layer="g52">
     <inkscape:grid
        id="grid1"
        units="px"
@@ -979,10 +982,9 @@
        style="fill:#d9ab49;fill-opacity:1;stroke:#000000;stroke-width:0"
        id="rect61"
        width="25"
-       height="5"
-       x="25"
-       y="145"
-       transform="translate(25,-25)" />
+       height="35"
+       x="50"
+       y="90" />
   </g>
   <g
      id="g53"
@@ -1008,6 +1010,13 @@
        inkscape:path-effect="#path-effect45"
        inkscape:original-d="m 50,75 h 25 v 75 H 50 Z"
        transform="translate(25,-25)" />
+    <rect
+       style="fill:#d9ab49;fill-opacity:1;stroke:#000000;stroke-width:0"
+       id="rect61-0"
+       width="10"
+       height="25"
+       x="75"
+       y="100" />
     <path
        style="fill:#d9ab49;fill-opacity:1;stroke:#000000;stroke-width:0"
        id="rect62"
@@ -1018,7 +1027,7 @@
        inkscape:path-effect="#path-effect68"
        sodipodi:type="rect"
        d="m 50,145 a 5,5 45 0 1 5,5 h -5 z"
-       transform="translate(25,-25)" />
+       transform="matrix(2,0,0,2,-25,-200)" />
   </g>
   <g
      id="g52"
@@ -1044,6 +1053,13 @@
        inkscape:path-effect="#path-effect46"
        inkscape:original-d="m 0,75 h 25 v 75 H 0 Z"
        transform="translate(25,-25)" />
+    <rect
+       style="fill:#d9ab49;fill-opacity:1;stroke:#000000;stroke-width:0"
+       id="rect61-0-8"
+       width="10"
+       height="25"
+       x="40"
+       y="100" />
     <path
        style="fill:#d9ab49;fill-opacity:1;stroke:#000000;stroke-width:0"
        id="rect60"
@@ -1054,7 +1070,7 @@
        inkscape:path-effect="#path-effect67"
        sodipodi:type="rect"
        d="m 25,145 v 5 h -5 a 5,5 135 0 1 5,-5 z"
-       transform="translate(25,-25)" />
+       transform="matrix(2,0,0,2,0,-200)" />
   </g>
   <g
      id="g50"
@@ -1076,11 +1092,10 @@
     <rect
        style="fill:#d9ab49;fill-opacity:1;stroke:#000000;stroke-width:0"
        id="rect57"
-       width="5"
+       width="10"
        height="25"
-       x="20"
-       y="150"
-       transform="translate(25,-25)" />
+       x="40"
+       y="125" />
   </g>
   <g
      id="g47"
@@ -1109,7 +1124,7 @@
        inkscape:path-effect="#path-effect70"
        sodipodi:type="rect"
        d="m 20,175 h 5 v 5 a 5,5 45 0 1 -5,-5 z"
-       transform="translate(25,-25)" />
+       transform="matrix(2,0,0,2,0,-200)" />
   </g>
   <g
      id="g51"
@@ -1132,10 +1147,9 @@
        style="fill:#d9ab49;fill-opacity:1;stroke:#000000;stroke-width:0"
        id="rect58"
        width="25"
-       height="5"
-       x="25"
-       y="175"
-       transform="translate(25,-25)" />
+       height="10"
+       x="50"
+       y="150" />
   </g>
   <g
      id="g48"
@@ -1164,7 +1178,7 @@
        inkscape:path-effect="#path-effect69"
        sodipodi:type="rect"
        d="m 50,175 h 5 a 5,5 135 0 1 -5,5 z"
-       transform="translate(25,-25)" />
+       transform="matrix(2,0,0,2,-25,-200)" />
   </g>
   <g
      id="g49"
@@ -1186,11 +1200,10 @@
     <rect
        style="fill:#d9ab49;fill-opacity:1;stroke:#000000;stroke-width:0"
        id="rect55"
-       width="5"
+       width="10"
        height="25"
-       x="50"
-       y="150"
-       transform="translate(25,-25)" />
+       x="75"
+       y="125" />
   </g>
   <rect
      style="fill:#00ff29;fill-opacity:1;stroke:#000000;stroke-width:0"
