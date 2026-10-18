@@ -28,15 +28,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="13.32784"
-     inkscape:cx="52.671699"
-     inkscape:cy="104.368"
+     inkscape:zoom="4.712103"
+     inkscape:cx="73.640156"
+     inkscape:cy="105.89751"
      inkscape:window-width="2560"
-     inkscape:window-height="1351"
+     inkscape:window-height="1347"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g52">
+     inkscape:current-layer="svg1">
     <inkscape:grid
        id="grid1"
        units="px"
@@ -955,14 +955,14 @@
   </defs>
   <rect
      style="fill:#d9ab49;fill-opacity:1;stroke:#000000;stroke-width:0"
-     id="rect59"
+     id="decoration-center"
      width="25"
      height="25"
      x="50"
      y="125"
      inkscape:label="decoration-center" />
   <g
-     id="g46"
+     id="decoration-top"
      inkscape:label="decoration-top">
     <rect
        style="fill:url(#linearGradient11);stroke:#000000;stroke-width:0;fill-opacity:1"
@@ -987,7 +987,7 @@
        y="90" />
   </g>
   <g
-     id="g53"
+     id="decoration-topright"
      inkscape:label="decoration-topright">
     <rect
        style="fill:url(#radialGradient2);stroke:#000000;stroke-width:0"
@@ -1030,7 +1030,7 @@
        transform="matrix(2,0,0,2,-25,-200)" />
   </g>
   <g
-     id="g52"
+     id="decoration-topleft"
      inkscape:label="decoration-topleft">
     <rect
        style="fill:url(#radialGradient3);stroke:#000000;stroke-width:0"
@@ -1073,7 +1073,7 @@
        transform="matrix(2,0,0,2,0,-200)" />
   </g>
   <g
-     id="g50"
+     id="decoration-left"
      inkscape:label="decoration-left">
     <rect
        style="fill:url(#linearGradient14);stroke:#000000;stroke-width:0;fill-opacity:1"
@@ -1098,7 +1098,7 @@
        y="125" />
   </g>
   <g
-     id="g47"
+     id="decoration-bottomleft"
      inkscape:label="decoration-bottomleft">
     <rect
        style="fill:url(#radialGradient4);stroke:#000000;stroke-width:0"
@@ -1127,7 +1127,7 @@
        transform="matrix(2,0,0,2,0,-200)" />
   </g>
   <g
-     id="g51"
+     id="decoration-bottom"
      inkscape:label="decoration-bottom">
     <rect
        style="fill:url(#linearGradient16);stroke:#000000;stroke-width:0;fill-opacity:1"
@@ -1152,7 +1152,7 @@
        y="150" />
   </g>
   <g
-     id="g48"
+     id="decoration-bottomright"
      inkscape:label="decoration-bottomright">
     <rect
        style="fill:url(#radialGradient5);stroke:#000000;stroke-width:0"
@@ -1181,7 +1181,7 @@
        transform="matrix(2,0,0,2,-25,-200)" />
   </g>
   <g
-     id="g49"
+     id="decoration-right"
      inkscape:label="decoration-right">
     <rect
        style="fill:url(#linearGradient15);stroke:#000000;stroke-width:0;fill-opacity:1"
@@ -1207,7 +1207,7 @@
   </g>
   <rect
      style="fill:#00ff29;fill-opacity:1;stroke:#000000;stroke-width:0"
-     id="rect54"
+     id="hint-right-margin"
      width="35"
      height="5"
      x="75"
@@ -1215,7 +1215,7 @@
      inkscape:label="hint-right-margin" />
   <rect
      style="fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0"
-     id="rect56"
+     id="shadow-hint-right-margin"
      width="10"
      height="5"
      x="100"
@@ -1223,7 +1223,7 @@
      inkscape:label="shadow-hint-right-margin" />
   <rect
      style="fill:#00ff29;fill-opacity:1;stroke:#000000;stroke-width:0"
-     id="rect64"
+     id="hint-left-margin"
      width="35"
      height="5"
      x="15"
@@ -1231,7 +1231,7 @@
      inkscape:label="hint-left-margin" />
   <rect
      style="fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0"
-     id="rect65"
+     id="shadow-hint-left-margin"
      width="10"
      height="5"
      x="15"
@@ -1239,7 +1239,7 @@
      inkscape:label="shadow-hint-left-margin" />
   <rect
      style="fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0"
-     id="rect66"
+     id="shadow-hint-top-margin"
      width="5"
      height="10"
      x="55"
@@ -1247,7 +1247,7 @@
      inkscape:label="shadow-hint-top-margin" />
   <rect
      style="fill:#00ff29;fill-opacity:1;stroke:#000000;stroke-width:0"
-     id="rect67"
+     id="hint-top-margin"
      width="5"
      height="85"
      x="65"
@@ -1255,7 +1255,7 @@
      inkscape:label="hint-top-margin" />
   <rect
      style="fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0"
-     id="rect68"
+     id="shadow-hint-bottom-margin"
      width="5"
      height="10"
      x="55"
@@ -1263,7 +1263,7 @@
      inkscape:label="shadow-hint-bottom-margin" />
   <rect
      style="fill:#00ff29;fill-opacity:1;stroke:#000000;stroke-width:0"
-     id="rect69"
+     id="hint-bottom-margin"
      width="5"
      height="35"
      x="65"

@@ -27,11 +27,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="9.4242064"
-     inkscape:cx="71.836287"
-     inkscape:cy="137.62432"
+     inkscape:zoom="6.6639203"
+     inkscape:cx="52.521637"
+     inkscape:cy="145.55997"
      inkscape:window-width="2560"
-     inkscape:window-height="1359"
+     inkscape:window-height="1347"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -735,7 +735,7 @@
        hide_knots="false" />
   </defs>
   <g
-     id="g4"
+     id="active-center"
      inkscape:label="active-center">
     <circle
        style="fill:#100f0c;fill-opacity:0.40000001;stroke:#000000;stroke-width:0"
@@ -757,7 +757,7 @@
        r="7.5" />
   </g>
   <g
-     id="g5"
+     id="hover-center"
      inkscape:label="hover-center">
     <circle
        style="fill:#100f0c;fill-opacity:0.4;stroke:#000000;stroke-width:0"
@@ -779,7 +779,7 @@
        r="7.5" />
   </g>
   <g
-     id="g5-8"
+     id="pressed-center"
      inkscape:label="pressed-center"
      transform="translate(50)">
     <circle

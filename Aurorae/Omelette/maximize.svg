@@ -27,11 +27,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="16.072"
-     inkscape:cx="87.481334"
-     inkscape:cy="126.2444"
+     inkscape:zoom="8.036"
+     inkscape:cx="91.836735"
+     inkscape:cy="136.01294"
      inkscape:window-width="2560"
-     inkscape:window-height="1359"
+     inkscape:window-height="1347"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -939,7 +939,7 @@
        hide_knots="false" />
   </defs>
   <g
-     id="g9"
+     id="active-center"
      inkscape:label="active-center">
     <path
        style="fill:#100f0c;fill-opacity:0.40000001;stroke:#000000;stroke-width:0"
@@ -963,7 +963,7 @@
        inkscape:path-effect="#path-effect10" />
   </g>
   <g
-     id="g9-5"
+     id="hover-center"
      inkscape:label="hover-center"
      transform="translate(50)">
     <path
@@ -988,7 +988,7 @@
        inkscape:original-d="M 37.5,117.5 30,125 37.5,132.5 45,125 Z" />
   </g>
   <g
-     id="g9-5-0"
+     id="pressed-center"
      inkscape:label="pressed-center"
      transform="translate(100)">
     <path

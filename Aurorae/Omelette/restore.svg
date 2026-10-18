@@ -27,11 +27,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="9.424206"
-     inkscape:cx="59.739781"
-     inkscape:cy="132.84939"
+     inkscape:zoom="4.712103"
+     inkscape:cx="58.148135"
+     inkscape:cy="98.469834"
      inkscape:window-width="2560"
-     inkscape:window-height="1359"
+     inkscape:window-height="1347"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -888,7 +888,7 @@
        hide_knots="false" />
   </defs>
   <g
-     id="g8"
+     id="active-center"
      inkscape:label="active-center">
     <path
        id="rect1-6"
@@ -911,7 +911,7 @@
        inkscape:original-d="m 30,105 h 15 v 15 H 30 Z" />
   </g>
   <g
-     id="g8-8"
+     id="hover-center"
      inkscape:label="hover-center"
      transform="translate(50)">
     <path
@@ -935,7 +935,7 @@
        inkscape:original-d="m 30,105 h 15 v 15 H 30 Z" />
   </g>
   <g
-     id="g8-8-4"
+     id="pressed-center"
      inkscape:label="pressed-center"
      transform="translate(100)">
     <path
